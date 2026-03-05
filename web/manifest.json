@@ -1,6 +1,6 @@
 {
-    "name": "att_secu",
-    "short_name": "att_secu",
+    "name": "att_secu_project",
+    "short_name": "att_secu_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
